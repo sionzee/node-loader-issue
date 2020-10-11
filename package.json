@@ -6,6 +6,7 @@
     "test": "node --loader ts-node/esm test.ts"
   },
   "dependencies": {
-    "ts-node": "^9.0.0"
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
   }
 }
