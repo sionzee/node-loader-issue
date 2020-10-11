@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --loader ts-node/esm test.ts"
+  },
+  "dependencies": {
+    "ts-node": "^9.0.0"
+  }
+}
